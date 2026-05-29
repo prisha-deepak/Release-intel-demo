@@ -1,0 +1,14 @@
+{
+  "modules": [
+    {
+      "sourcePath": "src/scm",
+      "pillar": "SCM",
+      "specFile": "Requisition Receipt to Payment"
+    },
+    {
+      "sourcePath": "src/hcm",
+      "pillar": "HCM",
+      "specFile": "Employee Insights to Workforce"
+    }
+  ]
+}

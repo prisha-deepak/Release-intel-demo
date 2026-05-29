@@ -1,0 +1,11 @@
+{
+  "name": "release-intel-demo",
+  "version": "1.0.0",
+  "description": "Demo repository for testing an AI release/MR analyzer",
+  "main": "src/scm/requisitionReceiptToPayment.js",
+  "scripts": {
+    "test": "node --test ./tests/scm/requisitionReceiptToPayment.spec.js ./tests/hcm/employeeInsightsToWorkforce.spec.js"
+  },
+  "keywords": ["demo", "release-intel"],
+  "license": "MIT"
+}
